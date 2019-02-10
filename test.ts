@@ -1,1 +1,5 @@
-// tests go here; this will not be compiled when this package is used as a library
+charcode.showCharCode("A")
+basic.pause(1000)
+charcode.showCharCode("a")
+basic.pause(1000)
+charcode.showCharCode("ｱ")
